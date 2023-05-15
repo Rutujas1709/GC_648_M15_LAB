@@ -1,2 +1,2 @@
 # CS648-Module15
-## Employee management system
+## System developed for Employee Management
