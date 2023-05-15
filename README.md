@@ -1,2 +1,2 @@
-# GC_648_M15_LAB
- 
+# CS648-Module15
+## Employee management system
